@@ -28,5 +28,5 @@ Kaggle Notebook (free GPU T4)
 
 ## Links
 - Hugging Face Model: https://huggingface.co/manuiitj/distilbert-goodreads-genres
-- W&B Dashboard: https://wandb.ai/manu-singh-cms12-prom-iit-rajasthan/mlops-assignment2
+- W&B Dashboard: https://wandb.ai/manu-singh-cms12-prom-iit-rajasthan/mlops-assignment2?nw=nwusermanusinghcms12
 - Kaggle Notebook: https://www.kaggle.com/code/manusinghg25ait2061/ml-ops2
