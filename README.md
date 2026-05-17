@@ -16,7 +16,8 @@ tracked with Weights & Biases, and the model is published on Hugging Face.
 
 ## Training Platform
 Kaggle Notebook (free GPU T4)
-- Kaggle Notebook: https://www.kaggle.com/your-username/your-notebook-name
+- Kaggle Notebook: https://www.kaggle.com/code/manusinghg25ait2061/ml-ops2
+
 
 ## Results
 | Metric    |   Score   |
