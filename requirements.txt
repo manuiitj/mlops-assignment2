@@ -1,0 +1,11 @@
+transformers
+torch
+wandb
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+huggingface_hub
+gdown
+requests
