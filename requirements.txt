@@ -1,0 +1,13 @@
+These are the following libraries used by me in this project
+
+transformers
+torch
+wandb
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+huggingface_hub
+gdown
+requests
